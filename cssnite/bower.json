@@ -1,0 +1,20 @@
+{
+  "name": "dev5min",
+  "version": "0.0.1",
+  "authors": [
+    "cipher <gmgateway@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "_bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "holderjs": "~2.4.1"
+  }
+}
